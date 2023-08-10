@@ -1,12 +1,6 @@
 @azimsaidov
 
-Hey! My name is Saidazim Saidov, but I go by Azim.
+Wsp!!
 
-I am a current undergraduate student at UC Riverside, class of 2027. I am studying Computer Science and have extensive knowledge of back- and front-end languages, including C, Python, Java,
-HTML/CSS. I am currently learning the AI specialization and machine learning algorithm, and I am very interested in it as a possible career path.
-
-I am always looking for new opportunities to expand my experience through research, internships, or assistant positions. Please reach out to me for any reason at all; I would love to chat!
-
-azimdsaidov@gmail.com
-
+I'm Azim (Saidazim Saidov), a Computer Science undergraduate at UC Riverside (Class of 2027). With a strong foundation in programming languages like C, Python, and Java, along with proficiency in web development using HTML and CSS, I've developed versatile skills to tackle a wide range of projects. My current focus lies in the AI specialization and machine learning algorithms. I'm fascinated by their potential to revolutionize technology and drive innovation. Eager to contribute to this field, I'm constantly seeking opportunities to apply my knowledge to real-world applications. Beyond the classroom, I'm dedicated to continuous learning and growth. Whether it's through independent research, internships, or assisting on intriguing projects, I'm always ready to take on new challenges that expand my horizons. Feel free to connect with me for insightful discussions or potential collaborations. If you're looking for someone passionate about AI, programming, and pushing boundaries, I'm just an email away at azimdsaidov@gmail.com
 
